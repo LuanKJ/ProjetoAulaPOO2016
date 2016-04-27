@@ -11,7 +11,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author acsantana 01/03/2016 Conexao com banco de dados Oracle
+ * @author BrunoSouzaPicinini
  */
 public class ConexaoOracle {
 

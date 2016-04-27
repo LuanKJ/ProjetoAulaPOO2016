@@ -6,7 +6,7 @@ import java.sql.SQLException;
 
 /**
  *
- * @author acsantana
+ * @author BrunoSouzaPicinini
  */
 public class ClassCidade extends ConexaoOracle {
 

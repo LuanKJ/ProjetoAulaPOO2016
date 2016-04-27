@@ -5,7 +5,7 @@ import java.sql.ResultSet;
 
 /**
  *
- * @author acsantana
+ * @author BrunoSouzaPicinini
  */
 public class ClassUF extends ConexaoOracle {
 

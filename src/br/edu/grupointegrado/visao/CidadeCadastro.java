@@ -13,7 +13,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author acsantana
+ * @author BrunoSouzaPicinini
  */
 public class CidadeCadastro extends javax.swing.JFrame {
 

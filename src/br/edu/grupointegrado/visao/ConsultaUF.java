@@ -6,7 +6,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author acsantana
+ * @author BrunoSouzaPicinini
  */
 public class ConsultaUF extends javax.swing.JDialog {
 

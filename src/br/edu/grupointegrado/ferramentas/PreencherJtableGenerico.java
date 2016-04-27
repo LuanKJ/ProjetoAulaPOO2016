@@ -10,7 +10,7 @@ import javax.swing.table.DefaultTableModel;
 
 /**
  *
- * @author acsantana
+ * @author BrunoSouzaPicinini
  */
 public class PreencherJtableGenerico {
 

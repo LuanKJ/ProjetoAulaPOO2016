@@ -9,8 +9,7 @@ import javax.swing.JTextField;
 
 /**
  *
- * @author André Cardeal santana date : 11/02/2011 validacao de campos
- * obrigatorios
+ * @author BrunoSouzaPicinini
  */
 public class ValidaCamposObrigatorios extends ConexaoOracle {
 

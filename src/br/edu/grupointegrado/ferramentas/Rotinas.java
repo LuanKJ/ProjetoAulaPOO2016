@@ -3,7 +3,7 @@ package br.edu.grupointegrado.ferramentas;
 
 /**
  *
- * @author acsantana
+ * @author BrunoSouzaPicinini
  */
 public class Rotinas {
     
